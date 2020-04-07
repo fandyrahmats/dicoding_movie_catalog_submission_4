@@ -1,0 +1,145 @@
+<resources>
+    <array name="data_movie_poster">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_name">Katalog Film</string>
+    <string name="release_date">Tahun Rilis</string>
+    <string name="rating">Nilai</string>
+    <string name="overview">Deskripsi</string>
+    <string name="menu_movie">Film</string>
+    <string name="_menu_tv_show">Acara TV</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="gagal_menampilkan_data">Gagal menampilkan data</string>
+    <string name="added_to_favorite">Berhasil menambahkan ke Film Favorite</string>
+    <string name="deleted_from_favorite">Terhapus dari daftar Film Favorite</string>
+
+    <string-array name="data_movie_rating">
+        <item>6.8</item>
+        <item>7.1</item>
+        <item>8.8</item>
+        <item>6.9</item>
+        <item>7.8</item>
+        <item>8.0</item>
+        <item>6.2</item>
+        <item>7.9</item>
+        <item>8.5</item>
+        <item>8.6</item>
+        <item>8.3</item>
+        <item>7.2</item>
+        <item>7.1</item>
+        <item>7.6</item>
+        <item>6.1</item>
+        <item>8.8</item>
+        <item>8.4</item>
+        <item>6.4</item>
+        <item>6.3</item>
+        <item>8.0</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="data_movie_title">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers : Infinity War</item>
+        <item>Birdbox</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumble Bee</item>
+        <item>Creed II</item>
+        <item>Deadpool</item>
+        <item>How to Train Your Dragon</item>
+        <item>Dragonball</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Marry Popins Returns</item>
+        <item>Mortal Engines</item>
+        <item>Preman Pensiun</item>
+        <item>Robinhood</item>
+        <item>Spiderman</item>
+        <item>The Girl in The Spiders Web</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_movie_description">
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karir Allys lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang secara terus-menerus dengan iblis internalnya sendiri.</item>
+        <item>Earl Stone, seorang pria berusia 80-an, bangkrut, sendirian, dan menghadapi penyitaan bisnisnya ketika ia ditawari pekerjaan yang hanya mengharuskannya mengemudi. Cukup mudah, tetapi, tanpa diketahui Earl, dia baru saja mendaftar sebagai kurir narkoba untuk kartel Meksiko. Dia melakukannya dengan baik sehingga muatannya meningkat secara eksponensial, dan Earl menabrak radar agen DEA yang sibuk mengisi daya.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon membawa dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercurys yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Pernah menjadi rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, lelaki setengah manusia Orm, setengah saudara Atlantis dan pewaris sejati takhta.</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.</item>
+        <item>Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Di Stockholm, Swedia, peretas Lisbeth Salander disewa oleh Frans Balder, seorang insinyur komputer, untuk mengambil program yang menurutnya terlalu berbahaya untuk ada.</item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tidak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.</item>
+        <item>Dalam London era Depresi, Jane dan Michael Banks yang sudah dewasa, bersama dengan Michaels, tiga anak, dikunjungi oleh Mary Poppins yang penuh teka-teki setelah kehilangan pribadi. Melalui keterampilan magisnya yang unik, dan dengan bantuan temannya Jack, dia membantu keluarga menemukan kembali sukacita dan keajaiban yang hilang dalam hidup mereka.</item>
+        <item>Fred Savage yang diculik dipaksa untuk menahan Deadpool PG-13 membawakan Deadpool 2 sebagai kisah Putri Pengantin yang penuh keajaiban, keajaiban, dan nol Fs.</item>
+        <item>Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang tak teruji dan sukar ditangkap membuat Night Fury menjauh. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.</item>
+        <item>Bumi damai setelah Turnamen Kekuasaan. Menyadari bahwa alam semesta masih memiliki banyak orang yang lebih kuat untuk dilihat, Goku menghabiskan seluruh hari pelatihannya untuk mencapai ketinggian yang lebih besar. Lalu suatu hari, Goku dan Vegeta dihadapkan oleh seorang Saiyan bernama Broly yang belum pernah mereka lihat sebelumnya. Orang-orang Saiyan seharusnya hampir sepenuhnya musnah dalam kehancuran Planet Vegeta, jadi apa yang dilakukan orang ini di Bumi? Pertemuan antara tiga Saiyan yang telah mengikuti takdir yang sangat berbeda ini berubah menjadi pertempuran yang luar biasa, dengan bahkan Frieza (kembali dari Neraka) terperangkap dalam campuran.</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.</item>
+        <item>Kapten Glass dari USS Arkansas menemukan bahwa kudeta sedang terjadi di Rusia, jadi ia dan krunya bergabung dengan kelompok elit yang bekerja di tanah untuk mencegah perang.</item>
+        <item>Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami pertemuan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya.</item>
+        <item>Kami tidak memiliki ikhtisar yang diterjemahkan dalam bahasa Inggris. Bantu kami memperluas basis data kami dengan menambahkan satu.</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+    </string-array>
+
+    <string-array name="data_tv_description">
+        <item>Setelah 250 tahun di atas es, seorang tahanan kembali hidup dalam tubuh baru dengan satu kesempatan untuk memenangkan kebebasannya dengan menyelesaikan pembunuhan yang membekukan pikiran.</item>
+        <item>Jefferson Pierce adalah seorang pria yang bergulat dengan rahasia. Sebagai ayah dari dua putri dan kepala sekolah dari sebuah sekolah menengah charter yang juga berfungsi sebagai tempat yang aman bagi kaum muda di lingkungan New Orleans yang dikuasai oleh kekerasan geng, ia adalah pahlawan bagi komunitasnya. </item>
+        <item>Seorang astronot bernama Gary dan sahabat karibnya yang menghancurkan planet Mooncake memulai perjalanan bersambung melalui ruang untuk membuka misteri "Ruang Akhir," titik terakhir di alam semesta, jika itu benar-benar ada. </item>
+        <item>Seorang konsultan keamanan mencari pembunuh yang kejam. Sama-sama terobsesi satu sama lain, mereka saling berhadapan dalam permainan epik kucing-dan-tikus. </item>
+        <item>Di tempat penyihir muda, vampir, dan manusia serigala diasuh untuk menjadi diri terbaik mereka terlepas dari impuls terburuk mereka, putri Klaus Mikaelson, Hope Mikaelson, 17 tahun, kembar Alaric Saltzman, Lizzie dan Josie Saltzman, di antaranya yang lain, tumbuh menjadi pahlawan dan penjahat di The Salvatore School for the Young and Gifted. </item>
+        <item>Setelah pendaratan di planet asing, keluarga Robinson berjuang melawan segala rintangan untuk bertahan hidup dan melarikan diri. Tapi mereka dikelilingi oleh bahaya tersembunyi. </item>
+        <item>Setelah mendarat dari penerbangan yang bergolak tetapi rutin, para kru dan penumpang Montego Air Penerbangan 828 menemukan lima tahun telah berlalu dalam waktu yang terasa seperti beberapa jam. Saat realitas baru mereka menjadi jelas, sebuah misteri yang lebih dalam terungkap dan beberapa penumpang yang kembali segera menyadari bahwa mereka mungkin dimaksudkan untuk sesuatu yang lebih besar daripada yang pernah mereka bayangkan mungkin terjadi. </item>
+        <item>Seorang residen senior yang tangguh dan cemerlang memandu seorang dokter muda yang idealis melewati hari pertamanya, menarik kembali tirai tentang apa yang sebenarnya terjadi, baik dan buruk, dalam kedokteran modern. </item>
+        <item>Tim pahlawan super muda yang dipimpin oleh Nightwing (dulunya Robin pertama Robin) terbentuk untuk memerangi kejahatan dan bahaya lainnya. </item>
+        <item>Ketika seorang manajer toko buku yang brilian bertemu dengan seorang penulis yang bercita-cita tinggi, ia menggunakan internet dan media sosial untuk mengumpulkan detail paling intim dan mendekatinya. Naksir yang menawan dan canggung dengan cepat menjadi </item>
+    </string-array>
+
+    <string-array name="data_movie_year">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2018</item>
+    </string-array>
+</resources>

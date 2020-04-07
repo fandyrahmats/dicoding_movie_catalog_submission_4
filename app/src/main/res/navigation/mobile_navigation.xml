@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/menu_movie">
+
+    <fragment
+        android:id="@+id/menu_movie"
+        android:name="apptest.jobthing.submissionmoviecatalogue.ui.movie.MovieFragment"
+        android:label="@string/menu_movie"
+        tools:layout="@layout/fragment_movie" />
+    <fragment
+        android:id="@+id/menu_tv_show"
+        android:name="apptest.jobthing.submissionmoviecatalogue.ui.tvshow.TvShowFragment"
+        android:label="@string/_menu_tv_show"
+        tools:layout="@layout/fragment_tv_show" />
+    <fragment
+        android:id="@+id/menu_favorite"
+        android:name="apptest.jobthing.submissionmoviecatalogue.ui.favorite.FavoriteFragment"
+        android:label="@string/favorite"
+        tools:layout="@layout/fragment_favorite" />
+    <activity
+        android:id="@+id/detailMovieActivity"
+        android:name="apptest.jobthing.submissionmoviecatalogue.ui.DetailMovieActivity"
+        android:label="activity_detail_movie"
+        tools:layout="@layout/activity_detail_movie" />
+</navigation>
