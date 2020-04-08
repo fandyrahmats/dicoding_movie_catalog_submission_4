@@ -49,10 +49,13 @@
     <string name="title_tab_movie" translatable="false">Movie</string>
     <string name="title_tab_tv" translatable="false">Tv Show</string>
     <string name="favorite" translatable="false">Favorite</string>
-    <string name="added_to_favorite">\"Added to favorite Movie\"</string>
+    <string name="added_to_favorite">Added to favorite Movie</string>
     <string name="deleted_from_favorite">Deleted from Movie favorites</string>
     <string name="added_to_favorite_tv">Added to favorite Tv Show</string>
     <string name="deleted_from_favorite_tv">Deleted from favorite Tv Show</string>
+    <string name="detail_image_poster" translatable="false">Detail image poster</string>
+    <string name="row_image_poster" translatable="false">row image poster</string>
+    <string name="empty_image" translatable="false">empty_image</string>
 
     <string-array name="data_movie_rating">
         <item>6.8</item>

@@ -32,8 +32,14 @@
     <string name="_menu_tv_show">Acara TV</string>
     <string name="change_language">Ganti Bahasa</string>
     <string name="gagal_menampilkan_data">Gagal menampilkan data</string>
-    <string name="added_to_favorite">Berhasil menambahkan ke Film Favorite</string>
-    <string name="deleted_from_favorite">Terhapus dari daftar Film Favorite</string>
+
+    <string name="title_tab_movie">Film</string>
+    <string name="title_tab_tv">Acara TV</string>
+    <string name="favorite">Favorit</string>
+    <string name="added_to_favorite">Berhasil menambahkan ke Film Favorit</string>
+    <string name="deleted_from_favorite">Terhapus dari daftar Film Favorit</string>
+    <string name="added_to_favorite_tv">Berhasil menambahkan ke Acara Tv Favorit</string>
+    <string name="deleted_from_favorite_tv">Terhapus dari daftar Acara Tv Favorit</string>
 
     <string-array name="data_movie_rating">
         <item>6.8</item>
